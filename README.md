@@ -1,8 +1,8 @@
 # Basic-andoid-app
 implements a basic android app which includes different layout <br/>
-## 1
+##### 1
 Different Login Layout
-## 2
+##### 2
 birthday card Layout
-## 3
+##### 3
 splash Screen
